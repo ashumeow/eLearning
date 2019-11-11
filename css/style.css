@@ -8,6 +8,13 @@
    
 */
 
+/* 
+    Updated on   : 11/11/2019.
+    author  : ashumeow
+    Version      : 1.1
+   
+*/
+
 /* ------------------------------------------ */
 /*             TABLE OF CONTENTS
 /* ------------------------------------------ */
@@ -57,30 +64,30 @@
 
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700|Montserrat:200,300,400,500,600,700,800');
 /*----bootstrap css ----- */
-@import url('../vendor/bootstrap/bootstrap.css');
+@import url('bootstrap.css');
 /*----bootstrap Select ----- */
-@import url('../vendor/bootstrap-select/dist/css/bootstrap-select.css');
+@import url('bootstrap-select.css');
 /*----BootstrapFormHelpers-master ----- */
-@import url('../vendor/BootstrapFormHelpers-master/dist/css/bootstrap-formhelpers.min.css');
+@import url('bootstrap-formhelpers.min.css');
 /*----camera-slider---*/
-@import url('../vendor/Camera-master/css/camera.css');
+@import url('camera.css');
 /*------- Mega menu ------*/
-@import url('../vendor/bootstrap-mega-menu/css/menu.css');
+@import url('menu.css');
 /*----font awesome -------*/
-@import url('../fonts/font-awesome/css/font-awesome.min.css');
+@import url('font-awesome.min.css');
 /*----owl-carousel css----*/
-@import url('../vendor/owl-carousel/owl.carousel.css');
-@import url('../vendor/owl-carousel/owl.theme.css');
+@import url('owl.carousel.css');
+@import url('owl.theme.css');
 /*-------- animated css ------*/
-@import url('../vendor/WOW-master/css/libs/animate.css');
+@import url('animate.css');
 /*-------Hover Css --------*/
-@import url('../vendor/hover.css');
+@import url('hover.css');
 /*--------- flat-icon ---------*/
-@import url('../fonts/icon/font/flaticon.css');
+@import url('flaticon.css');
 /*----------- Fancybox css -------*/
-@import url('../vendor/fancybox/dist/jquery.fancybox.min.css');
+@import url('jquery.fancybox.min.css');
 /*--------- Jquery ui ---------*/
-@import url('../vendor/jquery-ui/jquery-ui.min.css');
+@import url('jquery-ui.min.css');
 
 /*** 
 
